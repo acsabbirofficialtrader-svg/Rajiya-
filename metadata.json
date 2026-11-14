@@ -1,0 +1,6 @@
+{
+  "name": "শুভ জন্মদিন — অনলাইন বার্থডে উইশ",
+  "description": "হ্যাপি বার্থডে উইশ — ফিতে টেনে খাম খুলুন, ফুঁ দিয়ে মোমবাতি নেভান, তারপর স্মৃতির পাতা, নিজে নিজে লেখা হওয়া চিঠি, চিরকুট আর উপহারের টিকিট।",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
